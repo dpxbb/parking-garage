@@ -21,7 +21,7 @@ class Garage():
         print(self.tickets)
         print(self.currentTicket)
     
-# Angelica -- payForParking (collaboration for remaining lines)
+# Angelica -- payForParking lines 25 -29 (collaboration for remaining lines)
     def payForParking(self):
         paid = int(input("What's your ticket number? "))
         self.currentTicket[paid] = 'paid'
