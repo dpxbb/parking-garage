@@ -38,3 +38,7 @@ You will need a few attributes as well:
 NOTE: Use VSCode for this project starting with the following files below. Also, each person in the group should list the portion of the project they were responsible for inside of the python file and inside the README file.
 
 When the project is completed, commit the final changes, sync all pull requests, and each member should submit their respective GitHub links(though the code in each should be the same)
+
+###### List group responsiblities below:
+###### Provide name and approxamite line numbers where each person wrote their code
+
